@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Tensorflow implementation in python**
+- 🌱 I’m currently learning **TCP and UDP request handeling in golang**
 
-- 📫 How to reach me at : **luca.morgado.pro@gmail.com**
+- 📫 You can reach me at : **luca.morgado.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
