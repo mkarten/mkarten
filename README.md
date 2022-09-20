@@ -13,6 +13,7 @@
 </p>
 
 <h3 align="left">My activity graph:</h3>
+
 ![](https://activity-graph.herokuapp.com/graph?username=mkarten&theme=react-dark)
 
 <h3 align="left">Languages and Tools:</h3>
