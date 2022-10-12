@@ -21,7 +21,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkarten&show_icons=true&theme=dark&locale=en&layout=compact" alt="mkarten" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkarten&show_icons=true&theme=dark&locale=en&layout=compact&hide=HTML" alt="mkarten" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkarten&show_icons=true&theme=dark&locale=en" alt="mkarten" /></p>
 
