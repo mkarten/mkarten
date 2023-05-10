@@ -3,8 +3,8 @@
 <h1 align="center">👋- Hello there , I'm Luca Morgado -👋</h1>
 <br><br>
 
-- 🔭 Currently working on : [The Ecla programming language](https://github.com/Eclalang)
-
+- 🔭 Currently working on : Something New ...
+- 📈 Currently contributing on : [The Ecla programming language](https://github.com/Eclalang/Ecla)
 - 📫 Reach out to me at : **luca.morgado.pro@gmail.com**
 
 <h3 align="left">Discover who am I on :</h3>
